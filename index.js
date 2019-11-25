@@ -1,6 +1,3 @@
-'use strict'; 
-'use strict';
-
 function theBeatlesPlay(musicians, instruments) {
   var array = [];
   for (var i = 0; i < musicians.length; i++) {
@@ -22,6 +19,7 @@ function johnLennonFacts() {
 
 function iLoveTheBeatles(number) {
   var array = [];
+  }
   do {
     array.push("I love the Beatles!");
     number += 1
